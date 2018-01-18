@@ -558,15 +558,15 @@ input[type=checkbox] {
     position: relative;
 }
 
-.map {
+/* .map {
     width: 100%;
     height: 560px;position: relative;
     z-index: 0;
-}
+} */
 
 .form-box {
     position:absolute;
-    width: 50%;
+    width: 100%;
     top: 0;
     right: 0;
     background-color: rgba(255, 255, 255, 0.8);
